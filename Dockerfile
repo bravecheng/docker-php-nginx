@@ -15,13 +15,14 @@ RUN apk --no-cache add \
   php8-intl \
   php8-json \
   php8-mbstring \
-  php8-pdo \
-  php8-sqlite3 \ 
-  php8-pdo_sqlite \
   php8-opcache \
   php8-openssl \
+  php8-pdo \
+  php8-pdo_sqlite \
   php8-phar \
   php8-session \
+  php8-sqlite3 \ 
+  php8-tokenizer \
   php8-xml \
   php8-xmlreader \
   php8-zlib \
